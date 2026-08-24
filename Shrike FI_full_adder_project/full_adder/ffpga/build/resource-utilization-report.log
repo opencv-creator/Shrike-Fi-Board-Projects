@@ -1,0 +1,46 @@
+####   Resource Utilization Report   ####
+
+    Top level module name: full_adder
+
+    Resource usage:
+
+        CLB LUT5s:    2/1120 (0.18%)
+            Lut5:                          2 (0.18%)
+            Lut5 for Shift-register:       0 (0.00%)
+            Lut5 for Distributed memory:   0 (0.00%)
+
+        FFs:    0
+        CLB FFs: 0/1120 (0.00%)
+        IOB FFs: 0/736 (0.00%)
+
+        CLBs:      1/140 (0.71%)
+        Tiles:     1/1 (100.00%)
+
+        RTL Input ports:     3 
+        RTL Output ports:    4 
+        GPIOs:               5/19 (26.32%)
+
+        PLLs:        0/1 (0.00%)
+        OSCs:        0/1 (0.00%)
+        4k BRAMs:    0/8 (0.00%)
+
+        1 Clock
+           Clock 0: net    14, virtual_clock, Fanout: 5 CLBs
+           Total 1 unique clocks
+
+####   Resource Utilization Complete   ####
+
+TILE-REQ:		0		0		0		1
+
+### Total FPGA resources from current floorplan: ###
+                       184 IOBs
+                       140 Logic 6-LUT CLBs
+                              40 CLBs support RAM/SR
+
+Usage of Logic CLBs is 0.7%.
+    Logic-Memory CLB for RAM/Shift-Register is 0.0%.
+Usage of LUTs is 0.2%.
+    dual-LUTs is 0.2%.
+Usage of FF is 0.0%.
+    dual-FF is 0.0%.
+Usage of IO CLB is 2.7%.
