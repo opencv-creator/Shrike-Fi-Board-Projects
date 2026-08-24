@@ -1,5 +1,8 @@
-# Shrike-Fi-Board-Projects
+<img width="2065" height="2107" alt="shrike_fi_pinouts" src="https://github.com/user-attachments/assets/0cf0614c-2da8-4da4-ab8e-157362b2793f" /># Shrike-Fi-Board-Projects
 Examples for Shrike Fi Board Projects
+
+<img width="4130" height="4214" alt="shrike_fi_pinouts" src="https://github.com/user-attachments/assets/57a61fe3-4c52-441b-bc6b-106d17314209" />
+
 
 shrike fi pins and documentation
 
