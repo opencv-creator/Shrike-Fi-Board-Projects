@@ -30,7 +30,9 @@ pip install esptool
 python -m esptool --chip esp32s3 -b 460800 --before default_reset --after hard_reset write_flash --flash_mode dio --flash_size 4MB --flash_freq 80m 0x0 shrike-fi-micropython.bin
 
 --------------------------------------------------------------------
-In Thonny programming the fpga bin file (select micropython esp32)
+Thonny IDE
+
+In Thonny For programming the fpga bin file (select micropython esp32)
 
 Connect the Shrike-fi to your computer without holding the BOOT button.
 Connect to the board in Thonny.
