@@ -1,8 +1,12 @@
 # Shrike-Fi-Board-Projects
-Examples for Shrike Fi Board Projects
+link for Shrike Lite examples (not Shike -Fi FPGA board)
+
+https://vicharak-in.github.io/shrike/examples.html
+
+----------------------------------------------------------
+Instructions for Programming Shrike Fi Board 
 
 <img width="4130" height="4214" alt="shrike_fi_pinouts" src="https://github.com/user-attachments/assets/57a61fe3-4c52-441b-bc6b-106d17314209" />
-
 
 shrike fi pins and documentation
 
