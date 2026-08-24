@@ -36,7 +36,9 @@ Connect the Shrike-fi to your computer without holding the BOOT button.
 Connect to the board in Thonny.
 
 Open View → Files.
+
 Find your FPGA_bitstream_MCU ( .bin ) file of the verilog code which is generated  
+
 Right-click the .bin → Upload to / so it is copied onto the Shrike-fi filesystem.
 
 --------------------------------------------------------------------
