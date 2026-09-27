@@ -1,0 +1,46 @@
+####   Resource Utilization Report   ####
+
+    Top level module name: top
+
+    Resource usage:
+
+        CLB LUT5s:    89/1120 (7.95%)
+            Lut5:                          89 (7.95%)
+            Lut5 for Shift-register:       0 (0.00%)
+            Lut5 for Distributed memory:   0 (0.00%)
+
+        FFs:    34
+        CLB FFs: 33/1120 (2.95%)
+        IOB FFs: 1/736 (0.14%)
+
+        CLBs:      17/140 (12.14%)
+        Tiles:     1/1 (100.00%)
+
+        RTL Input ports:     3 
+        RTL Output ports:    5 
+        GPIOs:               4/19 (21.05%)
+
+        PLLs:        0/1 (0.00%)
+        OSCs:        1/1 (100.00%)
+        4k BRAMs:    0/8 (0.00%)
+
+        1 Clock
+           Clock 0: net     5, clk, Fanout: 14 CLBs
+           Total 1 unique clocks
+
+####   Resource Utilization Complete   ####
+
+TILE-REQ:		0		0		0		1
+
+### Total FPGA resources from current floorplan: ###
+                       184 IOBs
+                       140 Logic 6-LUT CLBs
+                              40 CLBs support RAM/SR
+
+Usage of Logic CLBs is 12.1%.
+    Logic-Memory CLB for RAM/Shift-Register is 0.0%.
+Usage of LUTs is 12.1%.
+    dual-LUTs is 4.1%.
+Usage of FF is 4.8%.
+    dual-FF is 1.1%.
+Usage of IO CLB is 2.7%.
